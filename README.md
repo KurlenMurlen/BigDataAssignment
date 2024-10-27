@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/f1d40b53-b1cd-4bf7-871b-4cf8df6067b3)# BigDataAssignment
+ 
+BigDataAssignment
 This is an assignment I took for my  Big Data classes. The requirements are specified as always:
 
 You and your team were hired to process data using MapReduce. The team have to answer the 10 (ten) questions (tasks) defined in the activity TDE 2, 3, and 4 - Dataset Definition.
